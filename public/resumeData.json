@@ -1,46 +1,46 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "name": "Seun Gbenle",
+    "occupation": "Software developer",
+    "description": "A programmer who enjoys programming",
+    "image": "https://i.ibb.co/K2CnrnR/useful1.jpg",
+    "bio": "I am a web developer with a passion for coding.I always sought out oppurtunities and challenges that are meaningful to me. I am passionate about helping others and solving problems. I am most excited about the outcome of every of my creations while programming",
+    "contactmessage": "Get in touch with me",
+    "email": "gbenleseun2016@gmail.com",
+    "phone": "+234 802 616 0891",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Ikeja",
+      "city": "Lagos",
+      "state": "Nigeria",
+      "zip": ""
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "",
+    "resumedownload": "https://docs.google.com/document/d/1OAnltEvmHtpyOYapTtulQ9ryiJUR37wzkMukYXcimk0/edit?usp=sharing",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
+        "url": "",
+        "className": ""
       },
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
+        "name": "twitter",
+        "url": "https://twitter.com/SheywunG",
+        "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/oluwaseun-gbenle-03742a158",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
+        "name": "github",
+        "url": "https://github.com/Oluwaseun-Gbenle",
+        "className": "fa fa-github"
       },
       {
-        "name": "github",
-        "url": "https://github.com/PapaReact",
-        "className": "fa fa-github"
+        "name": "instagram",
+        "url": "",
+        "className": ""
       }
     ]
   },
@@ -48,62 +48,74 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "University of Lagos - Nigeria",
+        "degree": "Bachelor's Degree, Biochemistry",
+        "graduated": "2018",
+        "description": "Graduated with Second Class Upper"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "80%"
       },
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "Adobe Photoshop",
+        "level": "65%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "60%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "70%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "75%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "50%"
+      },
+      {
+        "name": "Express",
+        "level": "55%"
+      },
+      {
+        "name": "Mongoose",
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Netflix Clone (React JS)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "https://i.ibb.co/x7YSky7/netflix-clone.jpg",
+        "url": "http://Oluwaseun-Gbenle.github.io/Netflix-clone"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Restaurant page (JavaScript)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "https://i.ibb.co/6tWNxNk/restaurant-page.jpg",
+        "url": "https://oluwaseun-gbenle.github.io/restaurant-page/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Signup page (JavaScript)",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "https://i.ibb.co/GMKs38d/signup.jpg",
+        "url": "https://oluwaseun-gbenle.github.io/Signup-page/"
       }
     ]
   },

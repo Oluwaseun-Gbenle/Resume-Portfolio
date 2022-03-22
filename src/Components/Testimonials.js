@@ -1,6 +1,6 @@
 import React from "react";
 
-const Testimonials = ({ data }) => {
+/*const Testimonials = ({ data }) => {
   if (data) {
     var testimonials = data.testimonials.map(function (testimonials) {
       return (
@@ -33,4 +33,4 @@ const Testimonials = ({ data }) => {
   );
 };
 
-export default Testimonials;
+export default Testimonials;*/
