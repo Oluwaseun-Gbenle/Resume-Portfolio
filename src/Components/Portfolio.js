@@ -39,6 +39,9 @@ const Portfolio = ({ data }) => {
           </div>
         </div>
       </div>
+      <div>
+        <a className="viewMore"  href="https://github.com/Oluwaseun-Gbenle"><p style={{color:"black", fontWeight:"800", textAlign:"center"}}>View More</p></a>
+        </div>
     </section>
   );
 };
