@@ -116,6 +116,18 @@
         "category": "",
         "image": "https://i.ibb.co/GMKs38d/signup.jpg",
         "url": "https://oluwaseun-gbenle.github.io/Signup-page/"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "https://i.ibb.co/ZgKMHrT/Amazon.png",
+        "url": "Camazonclonnne.herokuapp.com/"
+      },
+      {
+        "title": "Ewallet (React JS)",
+        "category": "",
+        "image": "https://i.ibb.co/rwJqFKV/e-wallet.png",
+        "url": "https://e-wallet-tan.vercel.app/"
       }
     ]
   },
